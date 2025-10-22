@@ -61,5 +61,10 @@ options:
       default: false
       hidden: true
 
+    - name: open
+      type: Action
+      title: Open
+      action: open
+      hidden: true
 
 ...
